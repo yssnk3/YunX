@@ -16,6 +16,8 @@
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
 
+// CI 触发用无害改动（验证 fork 的 Android CI 流水线，随后 revert）
+
 package com.yunx.app
 
 import android.content.ContentProvider
